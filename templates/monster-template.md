@@ -8,7 +8,7 @@
 
 ::: tip Boss
 
-|Monster Name| does/doesn't join you!
+|Monster Name| (♂️|♀️) does/doesn't join you!
 
 :::
 
@@ -19,6 +19,10 @@ The Description
 - `[Ability 1]()`
 - `[Ability 2]()`
 - `[Ability 3]()`
+
+## Parentage
+
+`[Monster 1]()` & `[Monster 2]()`
 
 ## Locations
 
