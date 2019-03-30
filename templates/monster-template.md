@@ -1,3 +1,6 @@
+---
+sidebar: false
+---
 # Monster Name (:skull: for bosses)
 
 `![Monster Picture]()`

@@ -10,5 +10,5 @@ sidebar: false
 |         |         |         |         |
 |         |         |         |         |
 |         |         |         |         |
-|         |         |         |         |
-|         |         |         |         |
+| | [Slime](./slime/) | | |
+| | [Heilslime](./heil-slime/) | | |
